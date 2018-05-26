@@ -39,3 +39,17 @@ There are 4 columns:
 4. Job Type: You choose the desired job type in this field (fulltime, parttime, contract, commission, internship, temporary, all.)
 
 ### - keywords.csv"
+
+This file contains the desired keywords that you want to check if they are mentioned in the body text of each job post. The results for each keyword will be shown in a binary format ('1' if the word exists in the job post, '0' if the word does NOT exist in the job post.)
+
+#### Things to know about keywords.csv:
+
+1. Each keyword in this file will become a a binary variable in the final dataset.
+
+2. Each column in the CSV file represents a category of keywords (e.g.: Soft Skills, Analytics Skills, Programing Languages.) The header of the dataset has names of each category, so that the user can easily know what are the different categories of keywords.
+
+3. The second row in the dataset has acronyms for each keyword category, these acronyms will become prefixes for the keywords when they are appended in the final dataset, to keep the keywords' variables nice and clean to find and use.
+
+4. You can add as many categories as you want, just make sure you follow the same format as the file shared in my repository and read the guidelines. 
+
+##
