@@ -31,5 +31,6 @@ There are 5 columns:
 2. Job Location: The location you want to search for jobs in.
 
 3. search radius (in miles): the radius of your job search.
-***Note: It is better to have a small radius for different nearby cities, because Indeed limits you to 1000 results for each search.***
+
+**Note: It is better to have a small radius for different nearby cities, because Indeed limits you to 1000 results for each search.**
 
