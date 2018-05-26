@@ -21,10 +21,12 @@ I wrote this code for a project for the School of Management at the University o
 
 These files act as inputs for the code, to make it easier to edit based on need.
 
+You should edit your searches and desired keywords based on your need before running the python code.
+
 ### searches.csv:
 
 This file contains the desired searches needed to be scraped from Indeed:
-There are 5 columns:
+There are 4 columns:
 
 1. Job Title: The job title you want to search for.
 
@@ -34,3 +36,6 @@ There are 5 columns:
 
 **Note: It is better to have a small radius for different nearby cities, because Indeed limits you to 1000 results for each search.**
 
+4. Job Type: You choose the desired job type in this field (fulltime, parttime, contract, commission, internship, temporary, all.)
+
+### keywords.csv"
