@@ -23,7 +23,7 @@ These files act as inputs for the code, to make it easier to edit based on need.
 
 You should edit your searches and desired keywords based on your need before running the python code.
 
-### searches.csv:
+### - searches.csv:
 
 This file contains the desired searches needed to be scraped from Indeed:
 There are 4 columns:
@@ -38,4 +38,4 @@ There are 4 columns:
 
 4. Job Type: You choose the desired job type in this field (fulltime, parttime, contract, commission, internship, temporary, all.)
 
-### keywords.csv"
+### - keywords.csv"
