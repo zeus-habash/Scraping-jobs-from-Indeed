@@ -72,9 +72,9 @@ Second after Phase 2: Removing jobs with the same job body of text.
 
 ## Other uses for this code
 
-Me and many of my friends have used this code for our job search, we would edit the job searches based on what we are looking for, and input keywords of skills that we have and want to find jobs that are looking for these skills.
+Me and many of my colleagues have used this code for our job search, we would edit the searches.csv file based on what we are looking for, and input keywords of skills that we have and want to find jobs that are looking for these skills.
 
-We would access the final dataset and filter the jobs to ones that match the skills/keywords that we have, and would end up with a list of jobs that exactly match our skillset, then we simply click on links of these jobs and apply.
+We then would access the final dataset and filter the jobs to ones that match the skills/keywords that we have, and would end up with a list of jobs that exactly match our skillset, then we simply click on the links of these jobs and apply.
 
 ## Project Contributors
 
