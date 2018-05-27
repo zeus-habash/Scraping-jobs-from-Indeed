@@ -59,12 +59,12 @@ This file contains the desired keywords that you want to check if they are menti
 2. The code will track time needed for each phase in the code and will give you a summary at the end of Phase 4. 
 Here is the summary I got after I ran the code for my 1240 job searches:
 
-##### Phase 1 took 02:00:17
-##### Phase 2 took 02:19:51
-##### Phase 3 took 00:04:45
-##### Phase 4 took 00:00:15
+#####       Phase 1 took 02:00:17
+#####       Phase 2 took 02:19:51
+#####       Phase 3 took 00:04:45
+#####       Phase 4 took 00:00:15
 
-##### The code ran for 04:25:11
+#####       The code ran for 04:25:11
 
 3. Several job searches will show duplicate job posts, but do not worry the code will filter duplicate jobs twice: 
 First after Phase 1: Removing jobs with the same job link.
