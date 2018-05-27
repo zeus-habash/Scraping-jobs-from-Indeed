@@ -86,19 +86,24 @@ Professor Mehrotra was the project supervior for this project, he shaped the sco
 Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498
 ## 
 ### 2. Zeus Habash: 
-## Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
+### Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
 
-Zeus is the author of this readme
+Zeus Habash is the author of this README, I wrote the code and documentation for this project on Python, and made sure that the program meets the guidlines of Prof. Mehrotra, and colaborated with Joaquin Hernandez to reach our goal of maximizing the utilization of this program to be as beneficial to as many stakeholders as possible. I also made sure that this code can be understood, used, and edited by any pythonista.
+
+Linkedin Profile: https://www.linkedin.com/in/zeus-habash
+
+Website: https://zeushabash.com
+##
 ### Joaquin Hernndez: 
 
 #### HR professional with 7 years experience in various HR functions including but not limited to recruiting, talent acquisition, People analytics, and HR systems.
 
-Hernandez was the subject matter expert in this project. He provided the team with the job searches needed to acquire our desired dataset. He also identified keywords and metrics needed for the analysis of the dataset. Last but not least, worked on the logic of classifying the jobs into fewer job titles categories, and different business functions.
+Joaquin Hernandez was the subject matter expert in this project. He provided the team with the job searches needed to acquire our desired dataset. He also identified keywords and metrics needed for the analysis of the dataset. Last but not least, worked on the logic of classifying the jobs into fewer job titles categories, and different business functions.
 
-Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795/
+Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795
 
-Website: https://iamjoaquinhernandez.com/
-
+Website: https://iamjoaquinhernandez.com
+##
 
 
 
