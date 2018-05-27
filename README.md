@@ -1,4 +1,5 @@
-# Scraping jobs from Indeed
+# Please read before runnnig the code
+##
 ## Purpose of this code
 
 I wrote this code for a project for the School of Management at the University of San Francisco. The purpose of the code was to be able to get a Dataset that captures different jobs posts from Indeed that can be analyzed to understand the job market demand, in terms of job titles, skills, industries and locations.
@@ -78,14 +79,14 @@ We would access the final dataset and filter the jobs to ones that match the ski
 
 ## Project Contributors
 
-### 1. Vijay Mehrotra: 
+### Vijay Mehrotra: 
 ### Professor of Business Analytics & Information Systems at the University of San Francisco.
 
 Professor Mehrotra was the project supervior for this project, he shaped the scope and timeline for this project, and provided the team with feedback and guidlines to acheive the project's goal in a timely manner.
 
 Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498
 ## 
-### 2. Zeus Habash: 
+### Zeus Habash: 
 ### Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
 
 Zeus Habash is the author of this README, I wrote the code and documentation for this project on Python, and made sure that the program meets the guidlines of Prof. Mehrotra, and colaborated with Joaquin Hernandez to reach our goal of maximizing the utilization of this program to be as beneficial to as many stakeholders as possible. I also made sure that this code can be understood, used, and edited by any pythonista.
