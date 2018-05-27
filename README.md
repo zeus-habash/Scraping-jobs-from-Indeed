@@ -23,7 +23,7 @@ These files act as inputs for the code, to make it easier to edit based on need.
 
 You should edit your searches and desired keywords based on your need before running the python code.
 
-### a. searches.csv:
+### A) searches.csv:
 
 This file contains the desired searches needed to be scraped from Indeed:
 There are 4 columns:
@@ -36,9 +36,9 @@ There are 4 columns:
 
 ##### Note: It is better to have a small radius for different nearby cities, because Indeed limits you to 1000 results for each search.
 
-4. Job Type: You choose the desired job type in this field (fulltime, parttime, contract, commission, internship, temporary, all.)
+4. Job Type: You choose the desired job type in this field (fulltime, parttime, contract, commission, internship, temporary, all).
 
-### b. keywords.csv:
+### B) keywords.csv:
 
 This file contains the desired keywords that you want to check if they are mentioned in the body text of each job post. The results for each keyword will be shown in a binary format ('1' if the word exists in the job post, '0' if the word does NOT exist in the job post.)
 
