@@ -83,7 +83,7 @@ We would access the final dataset and filter the jobs to ones that match the ski
 
 Professor Mehrotra was the project supervior for this project, he shaped the scope and timeline for this project, and provided the team with feedback and guidlines to acheive the project's goal in a timely manner.
 Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498/
-##
+
 ### Joaquin Hernndez: 
 #### Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795/
 #### Website: https://iamjoaquinhernandez.com/
