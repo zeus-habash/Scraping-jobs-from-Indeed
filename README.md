@@ -82,15 +82,18 @@ We would access the final dataset and filter the jobs to ones that match the ski
 ## Professor of Business Analytics & Information Systems at the University of San Francisco.
 
 Professor Mehrotra was the project supervior for this project, he shaped the scope and timeline for this project, and provided the team with feedback and guidlines to acheive the project's goal in a timely manner.
-Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498/
+
+Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498
 
 ### Joaquin Hernndez: 
 
 #### HR professional with 7 years experience in various HR functions including but not limited to recruiting, talent acquisition, People analytics, and HR systems.
 
 Hernandez was the subject matter expert in this project. He provided the team with the job searches needed to acquire our desired dataset. He also identified keywords and metrics needed for the analysis of the dataset. Last but not least, worked on the logic of classifying the jobs into fewer job titles categories, and different business functions.
-#### Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795/
-#### Website: https://iamjoaquinhernandez.com/
+
+Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795/
+
+Website: https://iamjoaquinhernandez.com/
 
 
 ### Zeus Habash: Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
