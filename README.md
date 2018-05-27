@@ -3,7 +3,7 @@
 
 I wrote this code for a project for the School of Management at the University of San Francisco. The purpose of the code was to be able to get a Dataset that captures different jobs posts from Indeed that can be analyzed to understand the job market demand, in terms of job titles, skills, industries and locations.
 
-## The code structure:
+## The code structure
 
 1. Importing needed packages.
 
@@ -17,7 +17,7 @@ I wrote this code for a project for the School of Management at the University o
 
 6. Phase 4 - Classifying jobs: This code classifies the jobs into different categories: Job title, Business Function / Department, and city.
 
-## What to do with the searches and keywords CSV files:
+## What to do with the searches and keywords CSV files
 
 These files act as inputs for the code, to make it easier to edit based on need.
 
@@ -52,7 +52,7 @@ This file contains the desired keywords that you want to check if they are menti
 
 4. You can add as many categories as you want, just make sure you follow the same format as the file shared in my repository and read the guidelines. 
 
-## Things to know while running the code:
+## Things to know while running the code
 
 1. The code might take a long time to execute depending on the amount of job searches needed, however the code will show you the progress made while it is running, so you can sit, relax, or even run the code and go to sleep and come back later to see the results.
 
@@ -70,7 +70,7 @@ Here is the summary I got after I ran the code for my 1240 job searches:
 First after Phase 1: Removing jobs with the same job link.
 Second after Phase 2: Removing jobs with the same job body of text. 
 
-## Other uses for this code:
+## Other uses for this code
 
 Me and many of my friends have used this code for our job search, we would edit the job searches based on what we are looking for, and input keywords of skills that we have and want to find jobs that are looking for these skills.
 
@@ -78,14 +78,14 @@ We would access the final dataset and filter the jobs to ones that match the ski
 
 ## Project Contributors
 
-### Vijay Mehrotra: 
+### Vijay Mehrotra
 #### Professor of Business Analytics & Information Systems at the University of San Francisco.
 
 Professor Mehrotra was the project supervisor for this project, he shaped the scope and timeline for this project, and provided the team with feedback and guidelines to achieve the project's goal effectively in a timely manner.
 
 Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498
 ## 
-### Zeus Habash: 
+### Zeus Habash
 #### Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
 
 Zeus Habash is the author of this README, I wrote the code and documentation for this project on Python, and made sure that the program meets the guidelines offered by Prof. Mehrotra, and collaborated with Joaquin Hernandez to reach our goal of maximizing the utilization of this program to be as beneficial to as many stakeholders as possible. I also made sure that this code can be understood, used, and edited by any Pythonista.
@@ -94,7 +94,7 @@ Linkedin Profile: https://www.linkedin.com/in/zeus-habash
 
 Website: https://zeushabash.com
 ##
-### Joaquin Hernandez: 
+### Joaquin Hernandez
 
 #### HR professional with 7 years experience in various HR functions including but not limited to recruiting, talent acquisition, People analytics, and HR systems.
 
