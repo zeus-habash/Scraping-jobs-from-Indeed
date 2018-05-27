@@ -79,12 +79,12 @@ We would access the final dataset and filter the jobs to ones that match the ski
 ## Project Contributors
 
 ### 1. Vijay Mehrotra: 
-## Professor of Business Analytics & Information Systems at the University of San Francisco.
+### Professor of Business Analytics & Information Systems at the University of San Francisco.
 
 Professor Mehrotra was the project supervior for this project, he shaped the scope and timeline for this project, and provided the team with feedback and guidlines to acheive the project's goal in a timely manner.
 
-## Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498
-
+Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498
+## 
 ### 2. Zeus Habash: 
 ## Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
 
