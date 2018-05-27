@@ -52,4 +52,45 @@ This file contains the desired keywords that you want to check if they are menti
 
 4. You can add as many categories as you want, just make sure you follow the same format as the file shared in my repository and read the guidelines. 
 
-##
+## Things to know while running the code:
+
+1. The code might take a long time to excute depending on the amount of job searches needed, however the code will show you the progress made while it is running, so you can sit, relax, or even run the code and go to sleep and come back later to see the results.
+
+2. The code will track time needed for each phase in the code, and will give you a summary at the end of Phase 4. 
+Here is the summary I got after I ran the code for my 1240 job searches:
+
+-Phase 1 took 02:00:17
+-Phase 2 took 02:19:51
+-Phase 3 took 00:04:45
+-Phase 4 took 00:00:15
+
+-The code ran for 04:25:11
+
+3. Several job searches will show duplicate job posts, but do not worry the code will filter duplicate jobs twice: 
+First after Phase 1: Removing jobs with the same job link.
+Second after Phase 2: Removing jobs with the same job body of text. 
+
+## Other uses for this code:
+
+Me and many of my friends have used this code for our job search, we would edit the job searches based on what we are looking for, and input keywords of skills that we have and want to find jobs that are looking for these skills.
+
+We would access the final dataset and filter the jobs to ones that match the skills/keywords that we want, and would have a list of jobs that exactly match our skillset, then we simply click on links of these jobs and apply.
+
+## Project Contributors
+
+### Vijay Mehrotra: Professor of Business Analytics & Information Systems at the University of San Francisco.
+
+Professor Mehrotra was the project supervior for this project, he shaped the scope and timeline for this project, and provided the team with feedback and guidlines to acheive the project's goal in a timely manner.
+Linkedin Profile: https://www.linkedin.com/in/vijay-mehrotra-ba9498/
+
+### Joaquin Hernndez: HR professional with 7 years experience in various HR functions including but not limited to recruiting, talent acquisition, People analytics, and HR systems.
+Hernandez was the subject matter expert in this project. He provided the team with the job searches needed to acquire our desired dataset. He also identified keywords and metrics needed for the analysis of the dataset. Last but not least, worked on the logic of classifying the jobs into fewer job titles categories, and different business functions.
+
+Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795/
+Website: https://iamjoaquinhernandez.com/
+
+### Zeus Habash: Talented Business Data Analyst with 8 years experience in various business functions. Has a strong ability to bridge the gap between the technical and the business sides, having a strong skill set in analytics and its translation into actionable insights, decisions, and recommendations.
+
+Zeus is the author of this readme
+
+
