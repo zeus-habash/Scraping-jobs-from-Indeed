@@ -1,5 +1,5 @@
 # Scraping jobs from Indeed
-## Please read before running the code
+#### Please read before running the code
 ## Purpose of this code
 
 I wrote this code for a project for the School of Management at the University of San Francisco. The purpose of the code was to be able to get a Dataset that captures different jobs posts from Indeed that can be analyzed to understand the job market demand, in terms of job titles, skills, industries and locations.
