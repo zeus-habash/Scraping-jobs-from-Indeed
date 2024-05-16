@@ -101,7 +101,7 @@ Website: https://zeushabash.com
 
 Joaquin Hernandez was the subject matter expert in this project. He provided the team with the job searches needed to acquire our desired dataset. He also identified keywords and metrics needed for the analysis of the dataset. Additionally, Joaquin worked on the logic of classifying the jobs into fewer job titles categories, and different business functions.
 
-Linkedin Profile: https://www.linkedin.com/in/joaquin-hernandez-43b9b795
+Linkedin Profile: https://www.linkedin.com/in/joaquin-h-43b9b795
 
 Website: https://iamjoaquinhernandez.com
 ##
